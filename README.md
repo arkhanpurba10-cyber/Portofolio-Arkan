@@ -1,4 +1,4 @@
-# Portofolio-Arkhan
+
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -90,7 +90,7 @@ footer{padding:30px 0 40px;border-top:1px solid var(--line);text-align:center;co
       <p class="lead">Perkenalkan saya seorang Mahasiswa yang mempunyai ambisi untuk terus belajar dan berkembang di dunia IT</p>
       <p class="lead" style="margin-top:10px">Sedang mencari: <strong style="color:var(--text)">Magang Frontend/Backend, dan UI/UX</strong></p>
     </div>
-    <img class="photo" src="foto.jpg" alt="Foto Arkhan Putra Setya Purba">
+    <img class="photo" src="foto.jpeg" alt="Foto Arkhan Putra Setya Purba">
   </section>
 
   <section id="tentang" class="section">
